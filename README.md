@@ -28,8 +28,8 @@ This branding site communicates our app’s mission, features, and roadmap while
 
 - **Frontend:** React (Vite) + TailwindCSS  
 - **Styling:** CSS variables (blue palette) + Glassmorphism  
-- **Backend:** Node.js + Express + Nodemailer for contact form  
-- **APIs:** Email validation via Abstract API  
+- **Backend:** Node.js + Express  
+- **APIs:** Email validation 
 - **Design Language:** Interactive, futuristic, minimal  
 
 ---
