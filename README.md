@@ -84,6 +84,6 @@ npm run dev
 
 **📬 Contact**
 
-- Email: [aryanbhanot2005@gmail.com](mailto: aryanbhanot2005@gmail.com)
+- Email: [aryanbhanot2005@gmail.com](mailto:aryanbhanot2005@gmail.com)
 - GitHub Repo: [branding_machine_vision](https://github.com/aryanbhanot05/branding_machine_vision)
 - Project Lead: [Aryan Bhanot](https://www.linkedin.com/in/aryan-bhanot-609650245/)
