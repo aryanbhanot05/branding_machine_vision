@@ -26,7 +26,7 @@ This branding site communicates our app’s mission, features, and roadmap while
 
 ## 🧑‍💻 Tech Stack
 
-- **Frontend:** React (Vite or Next.js) + TailwindCSS  
+- **Frontend:** React (Vite) + TailwindCSS  
 - **Styling:** CSS variables (blue palette) + Glassmorphism  
 - **Backend:** Node.js + Express + Nodemailer for contact form  
 - **APIs:** Email validation via Abstract API  
@@ -61,54 +61,29 @@ This branding site communicates our app’s mission, features, and roadmap while
 
 ### 1. Clone the repo
 ```sh
-git clone https://github.com/aryanbhanot05/branding_machine_vision.git
-cd branding_machine_vision
-
 # Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+git clone https://github.com/aryanbhanot05/branding_machine_vision.git
 
 # Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+cd branding_machine_vision
 
 # Step 3: Install the necessary dependencies.
-npm i
+npm install
 
 # Step 4: Start the development server with auto-reloading and an instant preview.
 npm run dev
 ```
 
-**Edit a file directly in GitHub**
+**💡 Vision & Future Roadmap**
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+- 🤖 Advanced AI Voice & Emotion Recognition
+- 🕶️ AR Object Label Overlay
+- 🌎 Cross-Platform Mobile Support
+- 🔍 Ethical AI & Privacy-First Data Handling
+- 🧩 Open Collaboration and Extensions
 
-**Use GitHub Codespaces**
+**📬 Contact**
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/2cdc073c-5ea0-4c40-81ca-be1121192dfb) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+- Email: [aryanbhanot2005@gmail.com](mailto: aryanbhanot2005@gmail.com)
+- GitHub Repo: [branding_machine_vision](https://github.com/aryanbhanot05/branding_machine_vision)
+- Project Lead: [Aryan Bhanot](https://www.linkedin.com/in/aryan-bhanot-609650245/)
