@@ -1,28 +1,69 @@
-# Welcome to your Lovable project
+# 👁️ See The Future — Machine Vision Branding Website
 
-## Project info
+A modern, scrollable, and interactive one-page website built to showcase our **AI-powered real-time object detection app** — *See The Future*.  
+This site presents the app’s vision, functionality, and team behind it, designed with motion, depth, and a sleek blue-toned interface.
 
-**URL**: https://lovable.dev/projects/2cdc073c-5ea0-4c40-81ca-be1121192dfb
+---
 
-## How can I edit this code?
+## 🌍 Project Overview
 
-There are several ways of editing your application.
+**See The Future** uses your phone’s camera to detect, identify, and describe objects in real-time — powered by computer vision and AI.  
+This branding site communicates our app’s mission, features, and roadmap while giving collaborators and contributors a polished hub to connect.
 
-**Use Lovable**
+---
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/2cdc073c-5ea0-4c40-81ca-be1121192dfb) and start prompting.
+## ✨ Features
 
-Changes made via Lovable will be committed automatically to this repo.
+- 🎨 **Ultra-modern UI** with interactive background responding to cursor movement  
+- 🔊 **AI Voice Integration** — reads detected objects and their descriptions  
+- 📷 **Live Demo Section** — showcases camera access and detection flow  
+- 🧠 **Emerging Trends Panel** — highlights innovative use-cases in AI & AR  
+- 👥 **Team Section** — profiles and QR codes linking to each member’s LinkedIn  
+- 📩 **Contact Form** — direct communication with validation & email delivery  
+- 🧭 **Smooth Scroll Navigation** — one-page layout with soft transitions  
 
-**Use your preferred IDE**
+---
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+## 🧑‍💻 Tech Stack
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+- **Frontend:** React (Vite or Next.js) + TailwindCSS  
+- **Styling:** CSS variables (blue palette) + Glassmorphism  
+- **Backend:** Node.js + Express + Nodemailer for contact form  
+- **APIs:** Email validation via Abstract API  
+- **Design Language:** Interactive, futuristic, minimal  
 
-Follow these steps:
+---
 
+## 🎨 Color Palette (Blue Theme)
+
+| Role | Color | Hex |
+|------|--------|-----|
+| Background | Midnight Blue | `#0B1220` |
+| Primary | Electric Blue | `#0EA5E9` |
+| Accent | Sky Blue | `#60A5FA` |
+| Text | Soft White | `#E6EEF6` |
+| Muted | Slate Gray | `#94A3B8` |
+
+---
+
+## 🧠 Team
+
+| Name | Role | LinkedIn |
+|------|------|-----------|
+| **Aryan Bhanot** | Project Lead / ML Engineer | [LinkedIn](https://www.linkedin.com/in/aryan-bhanot-609650245/) |
+| **Nishita Grover** | Frontend / UX Designer | [LinkedIn](https://www.linkedin.com/in/nishita-grover-1aa651327) |
+| **Gurman Harika** | Backend / Infrastructure | [LinkedIn](https://www.linkedin.com/in/gurman-harika-20a903319) |
+| **Ahmed Yusuf** | Research / Data | [LinkedIn](https://www.linkedin.com/in/ahmed-yusuf-sait) |
+
+---
+
+## 🚀 Getting Started
+
+### 1. Clone the repo
 ```sh
+git clone https://github.com/aryanbhanot05/branding_machine_vision.git
+cd branding_machine_vision
+
 # Step 1: Clone the repository using the project's Git URL.
 git clone <YOUR_GIT_URL>
 
