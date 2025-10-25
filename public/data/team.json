@@ -1,0 +1,38 @@
+[
+  {
+    "id": "aryan",
+    "name": "Aryan Bhanot",
+    "role": "Project Lead / ML Engineer",
+    "bio": "Leads ML model development and integration.",
+    "linkedin": "https://www.linkedin.com/in/aryan-bhanot-609650245/",
+    "qr": "/qrcodes/aryan.png",
+    "ppf": "/ppf/ppf_aryan.jpeg"
+  },
+  {
+    "id": "nishita",
+    "name": "Nishita Grover",
+    "role": "Frontend / UX",
+    "bio": "Designs smooth interfaces and interactive visuals.",
+    "linkedin": "https://www.linkedin.com/in/nishita-grover-1aa651327",
+    "qr": "/qrcodes/nishita.png",
+    "ppf": "/ppf/default.jpeg"
+  },
+  {
+    "id": "gurman",
+    "name": "Gurman Harika",
+    "role": "Backend / Infrastructure",
+    "bio": "Handles APIs, cloud endpoints and data pipelines.",
+    "linkedin": "https://www.linkedin.com/in/gurman-harika-20a903319",
+    "qr": "/qrcodes/gurman.png",
+    "ppf": "/ppf/default.jpeg"
+  },
+  {
+    "id": "ahmed",
+    "name": "Ahmed Yusuf",
+    "role": "Research / Data",
+    "bio": "Manages datasets, labeling and research experiments.",
+    "linkedin": "https://www.linkedin.com/in/ahmed-yusuf-sait",
+    "qr": "/qrcodes/ahmed.png",
+    "ppf": "/ppf/default.jpeg"
+  }
+]

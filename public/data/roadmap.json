@@ -1,0 +1,37 @@
+[
+  {
+    "id": "prototype",
+    "phase": "Phase 1",
+    "title": "Prototype Development",
+    "description": "Build core detection engine and test computer vision models",
+    "status": "completed"
+  },
+  {
+    "id": "realtime",
+    "phase": "Phase 2",
+    "title": "Real-time Detection",
+    "description": "Optimize inference speed and implement live camera processing",
+    "status": "completed"
+  },
+  {
+    "id": "mobile",
+    "phase": "Phase 3",
+    "title": "Mobile App Release",
+    "description": "Launch iOS and Android apps with full feature set",
+    "status": "in-progress"
+  },
+  {
+    "id": "ar",
+    "phase": "Phase 4",
+    "title": "AR Overlays",
+    "description": "Add augmented reality features and gesture controls",
+    "status": "planned"
+  },
+  {
+    "id": "api",
+    "phase": "Phase 5",
+    "title": "Partner API",
+    "description": "Release developer API for third-party integrations",
+    "status": "planned"
+  }
+]

@@ -1,0 +1,121 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Definition of the design system. All colors, gradients, fonts, etc should be defined here. 
+All colors MUST be HSL.
+*/
+
+@layer base {
+  :root {
+    /* Blue Palette - See the Future Brand */
+    --bg: 221 63% 8%;  /* #0B1220 deep midnight blue */
+    --glass: 0 0% 100% / 0.04;  /* rgba(255,255,255,0.04) */
+    --primary: 199 89% 48%;  /* #0EA5E9 electric sky blue */
+    --primary-700: 200 98% 39%;  /* #0284C7 darker primary */
+    --secondary: 213 97% 68%;  /* #60A5FA soft blue */
+    --muted: 214 32% 65%;  /* #94A3B8 muted text */
+    --text: 210 40% 92%;  /* #E6EEF6 light text */
+    --card: 222 82% 9%;  /* #071025 card surface */
+    --accent-glow: 199 89% 48% / 0.18;  /* rgba(14,165,233,0.18) */
+    
+    /* Semantic tokens using the palette */
+    --background: var(--bg);
+    --foreground: var(--text);
+    
+    --card-background: var(--card);
+    --card-foreground: var(--text);
+    
+    --popover: var(--card);
+    --popover-foreground: var(--text);
+    
+    --primary-foreground: 0 0% 100%;
+    
+    --secondary-foreground: var(--text);
+    
+    --muted-foreground: var(--muted);
+    
+    --accent: var(--secondary);
+    --accent-foreground: var(--text);
+    
+    --destructive: 0 84.2% 60.2%;
+    --destructive-foreground: 210 40% 98%;
+    
+    --border: 213 50% 20%;
+    --input: var(--border);
+    --ring: var(--primary);
+    
+    --radius: 1rem;
+    
+    /* Gradients */
+    --gradient-radial: radial-gradient(circle at center, hsl(var(--bg)), hsl(221 82% 5%));
+    
+    /* Glass effect */
+    --glass-bg: hsl(var(--glass));
+    --glass-border: hsl(0 0% 100% / 0.1);
+    
+    /* Glow effects */
+    --glow-primary: 0 0 40px hsl(var(--accent-glow));
+    --glow-strong: 0 0 60px hsl(var(--primary) / 0.4);
+    
+    /* Animations */
+    --transition-smooth: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+    --transition-bounce: all 0.5s cubic-bezier(0.68, -0.55, 0.265, 1.55);
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+
+  body {
+    @apply bg-background text-foreground;
+    background: hsl(var(--bg));
+    color: hsl(var(--text));
+    font-feature-settings: "rlig" 1, "calt" 1;
+  }
+  
+  /* Glass morphism utility */
+  .glass {
+    background: var(--glass-bg);
+    backdrop-filter: blur(12px) saturate(180%);
+    border: 1px solid var(--glass-border);
+  }
+  
+  /* Glow effects */
+  .glow-primary {
+    box-shadow: var(--glow-primary);
+  }
+  
+  .glow-strong {
+    box-shadow: var(--glow-strong);
+  }
+  
+  /* Smooth scroll */
+  html {
+    scroll-behavior: smooth;
+  }
+  
+  @media (prefers-reduced-motion: reduce) {
+    html {
+      scroll-behavior: auto;
+    }
+    
+    * {
+      animation-duration: 0.01ms !important;
+      animation-iteration-count: 1 !important;
+      transition-duration: 0.01ms !important;
+    }
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+
+  body {
+    @apply bg-background text-foreground;
+  }
+}

@@ -1,0 +1,72 @@
+[
+  {
+    "id": "art-stylization",
+    "title": "Dynamic AI Art Stylization",
+    "description": "Apply real-time artistic filters based on detected scene content",
+    "roles": ["ML Engineer", "Creative Technologist"],
+    "tech": ["StyleGAN", "Neural Style Transfer", "WebGL"]
+  },
+  {
+    "id": "ar-annotation",
+    "title": "Collaborative AR Annotation",
+    "description": "Multiple users annotate the same physical space in real-time",
+    "roles": ["AR Developer", "Backend Engineer"],
+    "tech": ["ARCore/ARKit", "WebRTC", "Firebase"]
+  },
+  {
+    "id": "inventory",
+    "title": "Real-time Inventory Tracking",
+    "description": "Automatically track and catalog physical items in warehouses",
+    "roles": ["Computer Vision Engineer", "IoT Specialist"],
+    "tech": ["YOLO", "Edge Computing", "MQTT"]
+  },
+  {
+    "id": "gesture-ux",
+    "title": "Gestural UX Controller",
+    "description": "Control applications through hand gestures without touch",
+    "roles": ["UI/UX Designer", "ML Engineer"],
+    "tech": ["MediaPipe", "TensorFlow.js", "Hand Tracking"]
+  },
+  {
+    "id": "learning-assistant",
+    "title": "Context-Aware Learning Assistant",
+    "description": "Provide educational information about objects in real-time",
+    "roles": ["EdTech Developer", "Content Curator"],
+    "tech": ["LLM Integration", "Knowledge Graphs", "TTS"]
+  },
+  {
+    "id": "virtual-measure",
+    "title": "Virtual Tape Measure",
+    "description": "Measure real-world objects accurately using camera depth",
+    "roles": ["AR Engineer", "3D Specialist"],
+    "tech": ["ARKit Depth API", "LiDAR", "Computer Vision"]
+  },
+  {
+    "id": "nature-id",
+    "title": "Plant & Bug Identification",
+    "description": "Identify flora and fauna species with ecological context",
+    "roles": ["Bioinformatics Engineer", "Naturalist"],
+    "tech": ["Custom CNN Models", "iNaturalist Dataset", "Taxonomy API"]
+  },
+  {
+    "id": "color-palette",
+    "title": "Smart Color Palette Generator",
+    "description": "Extract and suggest color schemes from real-world scenes",
+    "roles": ["Designer", "Frontend Developer"],
+    "tech": ["k-means Clustering", "Color Theory Algorithms", "Canvas API"]
+  },
+  {
+    "id": "mood-filter",
+    "title": "Mood & Vibe Filter",
+    "description": "Analyze scene ambiance and suggest matching music or lighting",
+    "roles": ["UX Researcher", "Audio Engineer"],
+    "tech": ["Sentiment Analysis", "Scene Classification", "Spotify API"]
+  },
+  {
+    "id": "virtual-decorator",
+    "title": "Virtual Interior Decorator",
+    "description": "Preview furniture and decor placement in your space",
+    "roles": ["3D Artist", "AR Developer"],
+    "tech": ["3D Object Placement", "Room Segmentation", "ARCore"]
+  }
+]

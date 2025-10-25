@@ -1,0 +1,38 @@
+[
+  {
+    "id": "detection",
+    "title": "Real-time Object Detection",
+    "description": "Powered by advanced computer vision models like COCO-SSD and YOLO variants for instant recognition.",
+    "icon": "Eye"
+  },
+  {
+    "id": "description",
+    "title": "Instant Description Generator",
+    "description": "Get contextual information about detected objects in natural language instantly.",
+    "icon": "MessageSquare"
+  },
+  {
+    "id": "voice",
+    "title": "AI Voice Output",
+    "description": "Hear object names and descriptions through natural AI-powered text-to-speech synthesis.",
+    "icon": "Volume2"
+  },
+  {
+    "id": "camera",
+    "title": "Camera Access",
+    "description": "Seamlessly switch between front and rear cameras with intuitive permission handling.",
+    "icon": "Camera"
+  },
+  {
+    "id": "ar",
+    "title": "Gesture + AR Overlays",
+    "description": "Future support for augmented reality overlays and gesture-based interactions.",
+    "icon": "Sparkles"
+  },
+  {
+    "id": "lightweight",
+    "title": "Lightweight On-Device Models",
+    "description": "Run efficiently on your device using TensorFlow.js, TFLite, or ONNX models.",
+    "icon": "Cpu"
+  }
+]
