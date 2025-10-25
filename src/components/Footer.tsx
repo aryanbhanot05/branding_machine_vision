@@ -30,7 +30,7 @@ export const Footer = () => {
                   Privacy Policy
                 </button>
                 <a
-                  href="https://github.com/aryanbhanot05/Tune_Space_2.0"
+                  href="https://github.com/aryanbhanot05"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="block text-sm text-muted-foreground hover:text-primary transition-colors"
@@ -44,7 +44,7 @@ export const Footer = () => {
               <h3 className="font-semibold mb-4">Connect</h3>
               <div className="flex gap-4">
                 <a
-                  href="https://github.com/aryanbhanot05/Tune_Space_2.0"
+                  href="https://github.com/aryanbhanot05"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="w-10 h-10 rounded-lg bg-primary/10 hover:bg-primary/20 flex items-center justify-center transition-colors"

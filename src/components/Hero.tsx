@@ -36,7 +36,7 @@ export const Hero = () => {
               size="lg"
               className="bg-primary hover:bg-primary-700 text-white font-medium shadow-glow-primary"
             >
-              <a href="https://github.com/aryanbhanot05/Tune_Space_2.0" target="_blank" rel="noopener noreferrer">
+              <a href="https://github.com/aryanbhanot05/see_the_future" target="_blank" rel="noopener noreferrer">
                 Try the Demo
               </a>
             </Button>

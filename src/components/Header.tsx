@@ -71,7 +71,7 @@ export const Header = () => {
             className="bg-primary hover:bg-primary-700 text-white font-medium"
             aria-label="Try demo on GitHub"
           >
-            <a href="https://github.com/aryanbhanot05/Tune_Space_2.0" target="_blank" rel="noopener noreferrer">
+            <a href="https://github.com/aryanbhanot05/see_the_future" target="_blank" rel="noopener noreferrer">
               Try Demo
             </a>
           </Button>

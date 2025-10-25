@@ -73,7 +73,7 @@ export const Contact = () => {
 
               <div className="space-y-4">
                 <a
-                  href="https://github.com/aryanbhanot05/Tune_Space_2.0"
+                  href="https://github.com/aryanbhanot05/see_the_future"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="flex items-center gap-4 p-4 rounded-xl hover:bg-primary/10 transition-colors group"
