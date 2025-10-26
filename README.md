@@ -53,7 +53,7 @@ This branding site communicates our app’s mission, features, and roadmap while
 | **Aryan Bhanot** | Project Lead / ML Engineer | [LinkedIn](https://www.linkedin.com/in/aryan-bhanot-609650245/) |
 | **Nishita Grover** | Frontend / UX Designer | [LinkedIn](https://www.linkedin.com/in/nishita-grover-1aa651327) |
 | **Gurman Harika** | Backend / Infrastructure | [LinkedIn](https://www.linkedin.com/in/gurman-harika-20a903319) |
-| **Ahmed Yusuf** | Research / Data | [LinkedIn](https://www.linkedin.com/in/ahmed-yusuf-sait) |
+| **Ahmed Yusuf** | API Integration / Data | [LinkedIn](https://www.linkedin.com/in/ahmed-yusuf-sait) |
 
 ---
 
