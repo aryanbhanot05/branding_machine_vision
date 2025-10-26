@@ -30,7 +30,7 @@ export const Header = () => {
       <nav className="container mx-auto px-4 py-4 flex items-center justify-between" aria-label="Main navigation">
         <div className="flex items-center gap-2">
           <Eye className="w-8 h-8 text-primary" aria-hidden="true" />
-          <span className="text-xl font-bold">See the Future</span>
+          <span className="text-xl font-bold">Vision</span>
         </div>
 
         <div className="hidden md:flex items-center gap-6">
@@ -71,7 +71,7 @@ export const Header = () => {
             className="bg-primary hover:bg-primary-700 text-white font-medium"
             aria-label="Try demo on GitHub"
           >
-            <a href="https://github.com/aryanbhanot05/see_the_future" target="_blank" rel="noopener noreferrer">
+            <a href="https://github.com/aryanbhanot05/vision" target="_blank" rel="noopener noreferrer">
               Try Demo
             </a>
           </Button>

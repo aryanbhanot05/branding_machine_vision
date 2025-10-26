@@ -13,7 +13,7 @@ export const Footer = () => {
             <div>
               <div className="flex items-center gap-2 mb-4">
                 <Eye className="w-6 h-6 text-primary" />
-                <span className="text-lg font-bold">See the Future</span>
+                <span className="text-lg font-bold">Vision</span>
               </div>
               <p className="text-sm text-muted-foreground">
                 Real-time object detection powered by computer vision and AI.
@@ -58,7 +58,7 @@ export const Footer = () => {
 
           <div className="border-t border-primary/10 pt-8">
             <p className="text-center text-sm text-muted-foreground">
-              © {new Date().getFullYear()} Team See the Future. All rights reserved.
+              © {new Date().getFullYear()} Team Vision. All rights reserved.
             </p>
           </div>
         </div>

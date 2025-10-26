@@ -19,7 +19,7 @@ export const Hero = () => {
       <div className="container mx-auto grid md:grid-cols-2 gap-12 items-center">
         <div className="space-y-6 animate-fade-in">
           <h1 id="hero-heading" className="text-5xl md:text-7xl font-bold leading-tight">
-            See the Future —{' '}
+            Vision —{' '}
             <span className="bg-gradient-to-r from-primary to-secondary bg-clip-text text-transparent">
               Real-Time Object Detection
             </span>{' '}
@@ -36,7 +36,7 @@ export const Hero = () => {
               size="lg"
               className="bg-primary hover:bg-primary-700 text-white font-medium shadow-glow-primary"
             >
-              <a href="https://github.com/aryanbhanot05/see_the_future" target="_blank" rel="noopener noreferrer">
+              <a href="https://github.com/aryanbhanot05/vision" target="_blank" rel="noopener noreferrer">
                 Try the Demo
               </a>
             </Button>

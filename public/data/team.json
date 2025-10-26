@@ -11,7 +11,7 @@
   {
     "id": "nishita",
     "name": "Nishita Grover",
-    "role": "Frontend / UX",
+    "role": "Frontend / Design",
     "bio": "Designs smooth interfaces and interactive visuals.",
     "linkedin": "https://www.linkedin.com/in/nishita-grover-1aa651327",
     "qr": "/qrcodes/nishita.png",
@@ -29,7 +29,7 @@
   {
     "id": "ahmed",
     "name": "Ahmed Yusuf",
-    "role": "Research / Data",
+    "role": "API Integration / Data",
     "bio": "Manages datasets, labeling and research experiments.",
     "linkedin": "https://www.linkedin.com/in/ahmed-yusuf-sait",
     "qr": "/qrcodes/ahmed.png",
