@@ -71,7 +71,7 @@ export const Header = () => {
             className="bg-primary hover:bg-primary-700 text-white font-medium"
             aria-label="Try demo on GitHub"
           >
-            <a href="https://github.com/aryanbhanot05/vision" target="_blank" rel="noopener noreferrer">
+            <a href="https://github.com/Ahmed-Yusuf-1/Vision" target="_blank" rel="noopener noreferrer">
               Try Demo
             </a>
           </Button>
